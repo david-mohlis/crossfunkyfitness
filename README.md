@@ -7,6 +7,13 @@ This was a project for my mobile application development courses at Rasmussen Co
 * Microsoft Azure
 * PhoneGap
 
+## Known Issues
+* Broken/Missing Code
+
+## ToDos
+* Build HTML Files
+** 
+
 ## Authors
 * David Mohlis - [david-mohlis](https://github.com/david-mohlis)
 
