@@ -11,4 +11,4 @@ This was a project for my mobile application development courses at Rasmussen Co
 * David Mohlis - [david-mohlis](https://github.com/david-mohlis)
 
 ## License
-This project is licensed under the MIT License. See [LICENSE.mn](https://github.com/david-mohlis/crossfunkyfitness/blob/master/LICENSE.md)
+This project is licensed under the MIT License. See [LICENSE.md](https://github.com/david-mohlis/crossfunkyfitness/blob/master/LICENSE) for more details.
