@@ -11,8 +11,8 @@ This was a project for my mobile application development courses at Rasmussen Co
 * Broken/Missing Code
 
 ## ToDos
-* Build HTML Files
-** 
+* Build HTML files
+* Develop CSS files
 
 ## Authors
 * David Mohlis - [david-mohlis](https://github.com/david-mohlis)
