@@ -13,6 +13,7 @@ This was a project for my mobile application development courses at Rasmussen Co
 ## ToDos
 * Build HTML files
 * Develop CSS files
+* Connect to database
 
 ## Authors
 * David Mohlis - [david-mohlis](https://github.com/david-mohlis)
